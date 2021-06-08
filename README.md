@@ -23,6 +23,10 @@
 </p>
 
 <p align=center>
+<img src="https://metrics.lecoq.io/BL4CKH47H4CK3R">
+</p>
+
+<p align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=BL4CKH47H4CK3R&show_icons=true&include_all_commits=true&count_private=true&theme=react">
 </p>
 
