@@ -49,5 +49,5 @@
 </p>
 
 <p align=center>
-  <img src="https://metrics.lecoq.io/BL4CKH47H4CK3R?template=classic&config.timezone=UTC">
+  <img src="https://metrics.lecoq.io/BL4CKH47H4CK3R?template=classic">
 </p>
