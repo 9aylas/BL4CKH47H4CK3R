@@ -47,7 +47,3 @@
 <p align=center>
   <img src="https://profile-counter.glitch.me/BL4CKH47H4CK3R/count.svg">
 </p>
-
-<p align=center>
- # <img src="https://metrics.lecoq.io/BL4CKH47H4CK3R">
-</p>
