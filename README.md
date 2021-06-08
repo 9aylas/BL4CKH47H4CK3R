@@ -18,10 +18,6 @@
 ⚡ 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚆𝚒𝚝𝚑 𝟸𝟶𝟶+ 𝙲𝚘𝚘𝚕 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ! ⚡
 </p>
 
-<p align=center>
-<img src="https://metrics.lecoq.io/BL4CKH47H4CK3R">
-</p>
-
 <h2 align="center">:wrench: 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙰𝚛𝚜𝚎𝚗𝚊𝚕𝚜 :wrench:</h2>
 
 <p align=center>
@@ -42,6 +38,10 @@
 <img src="https://img.shields.io/badge/-Drone%20CI-212121?style=for-the-badge&logo=Drone"> <br />
 <img src="https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
 <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown"> <br />
+</p>
+
+<p align=center>
+<img src="https://metrics.lecoq.io/BL4CKH47H4CK3R">
 </p>
   
 <h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
