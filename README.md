@@ -7,6 +7,10 @@
 <h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h2>
 
 <p align=center>
+  <img src="https://profile-counter.glitch.me/BL4CKH47H4CK3R/count.svg">
+</p>
+
+<p align=center>
   𝙱𝚕𝚊𝚌𝚔𝙷𝚊𝚝, 𝚁𝚎𝚟𝚎𝚛𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙱𝚞𝚐 𝙱𝚘𝚞𝚗𝚝𝚢 𝙷𝚞𝚗𝚝𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗, 𝚇𝙳𝙰 𝚁𝚎𝚌𝚘𝚐𝚗𝚒𝚣𝚎𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <br> 𝙰 𝙼𝚎𝚖𝚋𝚎𝚛 𝙾𝚏 𝟶𝚡𝟶𝟶𝚜𝚎𝚌 - 𝚃𝚑𝚎 𝙷𝚘𝚖𝚎 𝙾𝚏 𝚃𝚑𝚎 𝙷𝚊𝚌𝚔𝚎𝚛 <br>
 </p>
 
@@ -47,7 +51,3 @@
 </p>
   
 <h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
-
-<p align=center>
-  <img src="https://profile-counter.glitch.me/BL4CKH47H4CK3R/count.svg">
-</p>
