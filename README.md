@@ -49,7 +49,3 @@
 <p align=center>
 <img src="https://profile-counter.glitch.me/BL4CKH47H4CK3R/count.svg">
 </p>
-
-<p align=center>
-<img src="https://activity-graph.herokuapp.com/graph?username=BL4CKH47H4CK3R&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true">
-</p>
