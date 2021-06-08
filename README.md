@@ -6,6 +6,8 @@
 
 <h2 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜 !</h2>
 
+<h2 align="center">:pushpin: 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚅𝚒𝚎𝚠𝚜 :pushpin:</h2>
+
 <p align=center>
   <img src="https://profile-counter.glitch.me/BL4CKH47H4CK3R/count.svg">
 </p>
