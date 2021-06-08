@@ -49,5 +49,5 @@
 </p>
 
 <p align=center>
-  <img src="https://metrics.lecoq.io/BL4CKH47H4CK3R?template=classic&people=1&lines=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=UTC">
+  <img src="https://metrics.lecoq.io/BL4CKH47H4CK3R">
 </p>
